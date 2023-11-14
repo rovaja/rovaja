@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me 👋
 - 🚢 Sailing through the world of naval architecture and hydrodynamics as a dedicated specialist. ⚓
 - 🌊 Integrating the nuances of ship design with a curiosity for data science and machine learning.
 - 💡 Passionate with problem-solving, and simplifying daily routines.
