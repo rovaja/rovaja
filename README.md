@@ -10,6 +10,9 @@
 - 💵 Developed a risk evaluation tool for loan applications using the Home Credit Group dataset, employing a CatBoost classifier with feature selection for robust default risk prediction.
 
 <!--
+!!!! Fake news projektin pallura
+- 📰 Implemented a comprehensive analysis on fake-real news dataset, including exploratory data analysis, model training with machine learning and DistilBERT, and heuristic rule creation, contributing to fake news detection methodologies.
+
 **rovaja/rovaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
