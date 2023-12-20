@@ -6,8 +6,8 @@
 
 ### Summary of projects
 - 🍷 Explored Red Wine Quality dataset using statistical modeling and linear machine learning
-- Investigated a comprehensive football dataset, leveraging statistical modeling and linear machine learning techniques to uncover insights into team performance, goal-scoring dynamics, and predictive modeling for match outcomes.
-
+- ⚽ Investigated a comprehensive football dataset, leveraging statistical modeling and linear machine learning techniques to uncover insights into team performance, goal-scoring dynamics, and predictive modeling for match outcomes.
+- 💵 Developed a risk evaluation tool for loan applications using the Home Credit Group dataset, employing a CatBoost classifier with feature selection for robust default risk prediction.
 
 <!--
 **rovaja/rovaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
