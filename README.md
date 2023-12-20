@@ -5,7 +5,8 @@
 - 🔭 Anchored on the Finnish shores of the Baltic.
 
 ### Summary of projects
-- 🍷 Explored Red Wine Quality dataset using statistical modeling and machine learning
+- 🍷 Explored Red Wine Quality dataset using statistical modeling and linear machine learning
+- Investigated a comprehensive football dataset, leveraging statistical modeling and linear machine learning techniques to uncover insights into team performance, goal-scoring dynamics, and predictive modeling for match outcomes.
 
 
 <!--
