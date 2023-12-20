@@ -4,6 +4,10 @@
 - 💡 Passionate with problem-solving, and simplifying daily routines.
 - 🔭 Anchored on the Finnish shores of the Baltic.
 
+### Summary of projects
+- 🍷 Explored Red Wine Quality dataset using statistical modeling and machine learning
+
+
 <!--
 **rovaja/rovaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
